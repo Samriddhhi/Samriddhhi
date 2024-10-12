@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 - I'm a 1st-year B. Tech. (CSBS) student at the School of Information Technology RGPV.
-- Passionate about Android Development, Web Development, Machine Learning, and DevOps.
+- Passionate about Android Development, Web Development,Web3 Aspirant,Blockchain Enthusiast,Machine Learning, and DevOps.
 - Looking to collaborate with other developers. 
 - Learning more tools and technologies which are mentioned below to build big projects.
 
