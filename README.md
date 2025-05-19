@@ -5,8 +5,8 @@
 ---
 
 ### 🚀 About Me
-- I'm a 1st-year B. Tech. (CSBS) student at the School of Information Technology RGPV.
-- Passionate about Android Development, Web Development,Web3 Aspirant,Blockchain Enthusiast,Machine Learning, and DevOps.
+- I'm a 2st-year B. Tech. (CSBS) student at the School of Information Technology RGPV.
+- Passionate about Android Development,Web3 Aspirant,Blockchain Enthusiast,Machine Learning, and DevOps.
 - Looking to collaborate with other developers. 
 - Learning more tools and technologies which are mentioned below to build big projects.
 
@@ -19,7 +19,6 @@
 ![](https://img.shields.io/badge/Java-4BC0F4?style=for-the-badge&logo=java&logoColor=black)
 ![](https://img.shields.io/badge/Kotlin-A4C639?style=for-the-badge&logo=kotlin&logoColor=black)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![](https://img.shields.io/badge/Firebase-fafafa?style=for-the-badge&logo=firebase&logoColor=FFA611)
 ![](https://img.shields.io/badge/Git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F)
 ![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=github&logoColor=4078c0)
 
